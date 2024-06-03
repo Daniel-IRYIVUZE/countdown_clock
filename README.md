@@ -38,10 +38,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Interface
 
-###### For Small tablets and Mobile phones
+###### For Big tablets and small laptops
 ![countdown desktop mode](https://github.com/Daniel-IRYIVUZE/countdown_clock/assets/139581457/c9bbdb6c-0f9b-4bd9-84f3-4415186ee113)
 
-###### For Big tablets and small laptops
+###### For Small tablets and Mobile phones
 ![countdown mobile mode](https://github.com/Daniel-IRYIVUZE/countdown_clock/assets/139581457/2bc3f71c-e13d-4561-8b83-c2a0677f653e)
 
 #### Author 
